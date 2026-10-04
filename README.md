@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>AI/ML projects and building practical machine learning systems<br><br>👯 I’m looking to collaborate on<br>AI/ML, AI infrastructure and open-source projects<br><br>🤝 I’m looking for help with<br>AI Engineering, MLOps, model deployment and scalable AI systems<br><br>🌱 I’m currently learning<br>Python, DSA, Machine Learning, Deep Learning, C++, Linux, Docker and AI Infrastructure<br><br>💬 Ask me about<br>Python, AI/ML, Machine Learning and building AI systems<br><br>⚡ Fun fact<br>I’m interested in what happens behind the AI model — from data and training to deployment and infrastructure 🚀
+🔭 I’m currently working on<br>AI/ML projects and building practical machine learning systems<br>👯 I’m looking to collaborate on<br>AI/ML, AI infrastructure and open-source projects<br>🤝 I’m looking for help with<br>AI Engineering, MLOps, model deployment and scalable AI systems<br>🌱 I’m currently learning<br>Python, DSA, Machine Learning, Deep Learning, C++, Linux, Docker and AI Infrastructure<br>💬 Ask me about<br>Python, AI/ML, Machine Learning and building AI systems<br>⚡ Fun fact<br>I’m interested in what happens behind the AI model — from data and training to deployment and infrastructure 🚀
 
 
 ## 🌐 Socials:
